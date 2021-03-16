@@ -7,7 +7,7 @@ collections:
 layout_style: grid
 palette: green
 header:
-  title: M. C. D
+  title: M. C. D.
   logo_img: images/logo.svg
   logo_img_alt: Ampersand Logo
   has_nav: true
